@@ -1,56 +1,23 @@
 # Dastaan Jewelry Website
 
-A complete responsive static website for Dastaan Jewelry.
+Updated static website with Dastaan logo, Instagram, WhatsApp order links, and product stock images.
 
-## Files
+## Links configured
+- Instagram: https://www.instagram.com/dastaanjewelryofficial/
+- WhatsApp: +92 334 4141047
 
-- `index.html` — website structure
-- `style.css` — full responsive styling
-- `script.js` — mobile menu, product filter, scroll effects
-- `assets/images/` — logo/reference and product images
+## Deploy on GitHub Pages
+Upload all files and folders to the root of your `dastaan-jewelry` repository:
 
-## Edit Before Publishing
+- index.html
+- style.css
+- script.js
+- assets folder
+- README.md
 
-Open `index.html` and replace these links:
+Then go to Settings > Pages and choose:
+- Source: Deploy from a branch
+- Branch: main
+- Folder: / root
 
-- `https://www.instagram.com/` with your real Instagram link
-- `https://www.tiktok.com/` with your real TikTok link
-- `https://wa.me/923000000000` with your real WhatsApp number
-
-For WhatsApp, use this format:
-
-```text
-https://wa.me/92XXXXXXXXXX
-```
-
-Do not use `+`, spaces, or dashes in the WhatsApp link.
-
-## Free Deployment with GitHub Pages
-
-1. Create a free GitHub account.
-2. Create a new repository named `dastaan-jewelry`.
-3. Upload all files from this folder.
-4. Go to `Settings` → `Pages`.
-5. Under `Build and deployment`, choose:
-   - Source: `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/root`
-6. Save.
-7. Your website will be live at:
-
-```text
-https://yourusername.github.io/dastaan-jewelry/
-```
-
-## Free Deployment with Netlify
-
-1. Create a free Netlify account.
-2. Drag and drop this full folder into Netlify Deploys.
-3. Netlify will give you a free live website URL.
-
-## Brand Notes
-
-Brand name: Dastaan Jewelry
-Tagline: Loyalty. Royalty. Dastaan.
-Message: We do not sell jewelry; we sell loyalty and royalty.
-CTA: DM to Order
+Commit changes and wait a few minutes.
