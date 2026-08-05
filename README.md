@@ -1,23 +1,17 @@
 # Dastaan Jewelry Website
 
-Updated static website with Dastaan logo, Instagram, WhatsApp order links, and product stock images.
+Updated static website with your real logo, product images, Instagram link, and WhatsApp order link.
 
-## Links configured
+## Links added
 - Instagram: https://www.instagram.com/dastaanjewelryofficial/
-- WhatsApp: +92 334 4141047
+- WhatsApp: 0334 4141047
 
-## Deploy on GitHub Pages
-Upload all files and folders to the root of your `dastaan-jewelry` repository:
+## How to update on GitHub
+1. Unzip this folder.
+2. Open your GitHub repository: `dastaan-jewelry`.
+3. Upload/replace all files: `index.html`, `style.css`, `script.js`, and the full `assets` folder.
+4. Click **Commit changes**.
+5. Wait 2-5 minutes. Your GitHub Pages website will update automatically.
 
-- index.html
-- style.css
-- script.js
-- assets folder
-- README.md
-
-Then go to Settings > Pages and choose:
-- Source: Deploy from a branch
-- Branch: main
-- Folder: / root
-
-Commit changes and wait a few minutes.
+## Important
+If images do not update immediately, refresh the page with Ctrl + F5.
